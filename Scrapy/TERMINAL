@@ -1,0 +1,9 @@
+GO TO TERMINAL AND RUN SCRAPY GENSPIDER 'name_of_the_spider' 'weblink with https'
+
+WRITE THE CODE
+
+SCRAPY CRAWL 'name_of_the_spider'
+
+To save as json : scrapy crawl transcripts -o 'name_of_the_spider'
+
+go to spider_ > spider_ spiders where there are codes.
